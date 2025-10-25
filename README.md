@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sadab</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Developer+in+Progress...;CSE+Student+%7C+Game+%26+App+Dev+Enthusiast;Building+Trionine+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Developer+in+Progress...;%7C+Game+%26+App+Dev+Enthusiast;Building+Trionine+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
@@ -31,21 +31,8 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadabx&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadabx&theme=tokyonight" height="160px"/>
-</p>
-
----
-
 ### 📖 Favourite Quote
 > 「 It isn’t important to read the letters. The important thing is where the letters lead you. 」 
 > **Omniscient Reader’s Viewpoint**
 
 ---
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sadabx/sadabx/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
