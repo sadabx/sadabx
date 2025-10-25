@@ -47,5 +47,5 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sadabsiperkhan/sadabx/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/sadabx/sadabx/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
