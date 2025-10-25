@@ -33,6 +33,5 @@
 
 ### 📖 Favourite Quote
 > 「 It isn’t important to read the letters. The important thing is where the letters lead you. 」 
-> **Omniscient Reader’s Viewpoint**
 
 ---
