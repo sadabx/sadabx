@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sadab</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Developer+in+Progress...;%7C+Game+%26+App+Dev+Enthusiast;Building+Trionine+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Developer+in+Progress...;Game+%26+App+Dev+Enthusiast;Building+Trionine+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
