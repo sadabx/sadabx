@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Sadab</h1>
+<h1 align="center">Hey, I'm Sadab</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Developer+in+Progress...;CSE+Student+%7C+Game+%26+App+Dev+Enthusiast;Building+Trionine+%F0%9F%92%BB" alt="Typing SVG" />
@@ -40,12 +40,12 @@
 ---
 
 ### 📖 Favourite Quote
-> *“⸢This story is for just that one reader.⸥”*  
-> — **Omniscient Reader’s Viewpoint**
+> 「 It isn’t important to read the letters. The important thing is where the letters lead you. 」 
+> **Omniscient Reader’s Viewpoint**
 
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sadabsiperkhan/sadabsiperkhan/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/sadabsiperkhan/sadabx/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
