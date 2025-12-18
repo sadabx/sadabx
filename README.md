@@ -3,13 +3,13 @@
   # Hi, I'm SADAB
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Developer+in+Progress...;Game+%26+App+Dev+Enthusiast;Building+Trionine+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Developer+in+Progress...;Cyber+Enthusiast;Building+Trionine+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 
   <br/>
 
 CSE Student • Still discovering my niche. <br/> 
-  Building **Trionine**—bringing everything under one roof.
+  Building **Trionine** - bringing everything under one roof.
 
   <br/>
 
