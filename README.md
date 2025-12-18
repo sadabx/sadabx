@@ -39,7 +39,7 @@ CSE Student • Still discovering my niche. <br/>
 
   <br/>
 
-  [<img src="https://img.shields.io/badge/GitHub-181717?style=social&logo=github" />](https://github.com/sadabx)
+  [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=social&logo=codeforces" />](https://codeforces.com/profile/Sadab7)
   [<img src="https://img.shields.io/badge/Email-D14836?style=social&logo=gmail" />](mailto:sadabsiperkhan@gmail.com)
   [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin" />](https://linkedin.com/in/sadabsiperkhan)
 
