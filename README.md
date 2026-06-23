@@ -21,7 +21,7 @@
         <img src="https://img.shields.io/badge/C++-1a1b26?style=for-the-badge&logo=cplusplus&logoColor=e0af68" alt="C++" />
         <br/><br/>
         <!-- Top Languages Card -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadabx&layout=compact&theme=tokyonight" alt="Top Langs" />
+        <img src="https://readmestats.netlify.app/api/top-langs?username=sadabx&layout=compact&theme=tokyonight" alt="Top Langs" />
       </td>
     </tr>
   </table>
