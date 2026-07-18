@@ -21,7 +21,7 @@
         <img src="https://img.shields.io/badge/JS-1a1b26?style=for-the-badge&logo=javascript&logoColor=e0af68" alt="JS" />
         <br/><br/>
         <!-- Top Languages Card -->
-        <img src="https://readmestats.netlify.app/api/top-langs?username=sadabx&layout=compact&theme=tokyonight" alt="Top Langs" />
+        <img src="https://readme-stats-eta-five.vercel.app/api/top-langs?username=sadabx&layout=compact&theme=tokyonight" alt="Top Langs" />
       </td>
     </tr>
   </table>
