@@ -5,7 +5,7 @@
       <td align="center" valign="middle" style="padding-right: 20px;">
         <h1>SADAB KHAN</h1>
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=developer+in+progress...;cyber+enthusiast;building+trionine+%F0%9F%8C%80" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29903B&center=true&vCenter=true&width=500&lines=developer+in+progress...;cyber+enthusiast;building+trionine+%F0%9F%8C%80" alt="Typing SVG" />
         </a>
         <br/><br/>
         CSE Student • Still discovering my niche. <br/> 
