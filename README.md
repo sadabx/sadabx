@@ -18,7 +18,7 @@
         <!-- Minimal Tech Badges (Matching Tokyo Night Palette) -->
         <img src="https://img.shields.io/badge/Arch-1a1b26?style=for-the-badge&logo=archlinux&logoColor=7aa2f7" alt="Arch" />
         <img src="https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=f7768e" alt="Git" />
-        <img src="https://img.shields.io/badge/JS-1a1b26?style=for-the-badge&logo=javascript&logoColor=e0af68" alt="JS" />
+        <img src="https://img.shields.io/badge/Kotlin-1a1b26?style=for-the-badge&logo=Kotlin&logoColor=A97BFF" alt="Kotlin" />
         <br/><br/>
         <!-- Top Languages Card -->
         <img src="https://readme-stats-eta-five.vercel.app/api/top-langs?username=sadabx&layout=compact&theme=tokyonight&hide=HTML" alt="Top Langs" />
