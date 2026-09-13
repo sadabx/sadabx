@@ -23,7 +23,7 @@
 <img src="https://custom-icon-badges.demolab.com/badge/C%23-24283b?style=for-the-badge&logo=cshrp&logoColor=A97BFF" alt="C#" />
         <br/><br/>
         <!-- Top Languages Card -->
-        <!-- <img src="https://readme-stats-eta-five.vercel.app/api/top-langs?username=sadabx&layout=compact&theme=tokyonight&hide=HTML" alt="Top Langs" /> -->
+        <img src="https://readme-stats-eta-five.vercel.app/api/top-langs?username=sadabx&layout=compact&theme=tokyonight&hide=HTML" alt="Top Langs" />
       </td>
     </tr>
   </table>
